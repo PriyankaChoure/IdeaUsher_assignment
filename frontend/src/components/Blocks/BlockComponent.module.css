@@ -1,0 +1,13 @@
+.block {
+  height: 50px;
+  width: 50px;
+}
+.light {
+  background-color: white;
+}
+.dark {
+  background-color: black;
+}
+.changeRed {
+  background-color: red;
+}
